@@ -5,5 +5,3 @@ This is the first thing added.
 This is the second thing added to the readme file.
 
 This is the third thing added.
-
-(This is the change in the third_new_branch)
